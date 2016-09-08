@@ -9,7 +9,8 @@
     "tap": "^7.1.1"
   },
   "scripts": {
-    "test": "standard && tap test.js"
+    "test": "standard && tap test.js",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
