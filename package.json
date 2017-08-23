@@ -16,7 +16,9 @@
     "type": "git",
     "url": "git+https://github.com/watilde/meant.git"
   },
-  "keywords": ["meant"],
+  "keywords": [
+    "meant"
+  ],
   "author": "Daijiro Wachi",
   "license": "MIT",
   "bugs": {
