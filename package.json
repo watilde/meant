@@ -4,7 +4,7 @@
   "description": "Like the `Did you mean?` in git for npm",
   "main": "index.js",
   "devDependencies": {
-    "standard": "^8.0.0",
+    "standard": "^11.0.0",
     "standard-version": "^2.4.0",
     "tap": "^7.1.1"
   },
