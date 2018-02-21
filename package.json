@@ -6,7 +6,7 @@
   "devDependencies": {
     "standard": "^11.0.0",
     "standard-version": "^4.3.0",
-    "tap": "^7.1.1"
+    "tap": "^11.1.1"
   },
   "scripts": {
     "test": "standard && tap test.js",
