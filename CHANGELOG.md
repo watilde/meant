@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/watilde/meant/compare/v2.0.0...v2.0.1) (2020-11-17)
+
+
+### Bug Fixes
+
+* npm audit fix for devDeps ([#10](https://github.com/watilde/meant/issues/10)) ([0a7f81e](https://github.com/watilde/meant/commit/0a7f81ef1e442445e2ef2cac495f1ae3ba2070c5))
+
 ## [2.0.0](https://github.com/watilde/meant/compare/v1.0.3...v2.0.0) (2020-11-15)
 
 ### [1.0.3](https://github.com/watilde/meant/compare/v1.0.2...v1.0.3) (2020-11-15)
